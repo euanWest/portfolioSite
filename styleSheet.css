@@ -1,0 +1,84 @@
+.aldrich-regular 
+{
+    font-family: "Aldrich", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.arvo-regular {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+  .arvo-bold {
+    font-family: "Arvo", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+  .arvo-regular-italic {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+  .arvo-bold-italic {
+    font-family: "Arvo", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.footerContent {
+    justify-content: center;
+}
+
+.footerHeading {
+    font-family: "Aldrich";
+    font-size: 18pt;
+}
+
+.footerText {
+    font-family: "Arvo";
+    font-size: small;
+}
+  
+#navbarStyles {
+    background-color: black;
+    color: white;
+} 
+
+footer {
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.about {
+    padding: 100px;
+} 
+
+.picBorder {
+    border-color: black;
+    border-style: double;
+    border-width: 6px;
+}
+
+.mainHeading {
+    font-family: "Aldrich";
+}
+
+.mainText {
+    font-family: "Avro";
+}
+
+.projectPic {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.projectMargins {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
